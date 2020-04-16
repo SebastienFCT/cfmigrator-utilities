@@ -1,0 +1,61 @@
+{
+    "author":"Sebastien Fock-Chow-Tho",
+    "bugs":"",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{},
+    "description":"",
+    "devDependencies":{},
+    "documentation":"",
+    "homepage":"",
+    "ignore":[
+        "**/.*",
+        "/test/",
+        "/tests/"
+    ],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":[],
+    "license":[
+        {
+            "type":"MIT",
+            "URL":"https://github.com/SebastienFCT/cfmigrator-utilities/blob/master/LICENSE"
+        }
+    ],
+    "location":"ForgeboxStorage",
+    "directory":"/plugins/",
+    "createPackageDirectory":true,
+    "packageDirectory":"CFMigratorUtilities",
+    "name":"CFMigrator Utilities",
+    "private":false,
+    "projectURL":"https://github.com/SebastienFCT/cfmigrator-utilities",
+    "repository":{
+        "type":"github",
+        "URL":"https://github.com/SebastienFCT/cfmigrator-utilities"
+    },
+    "scripts":{},
+    "shortDescription":"A package to enhance your CFMigrator",
+    "slug":"cfmigrator-utilities",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "excludes":"",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"cfwheels-plugins",
+    "version":"0.0.1"
+}
